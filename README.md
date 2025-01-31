@@ -36,17 +36,17 @@ The emulator features:
 1. Install [SWI-Prolog](https://www.swi-prolog.org/download/stable)
 2. Clone repository:  
    ```bash
-   git clone https://github.com/xanndevs/prolog-simlan-emulator.git
+   git clone https://github.com/xanndevs/prolog_simlan_emulator.git
    cd simlan-emulator
    ```
 
 ---
 
 ## Usage  
-1. Create program file (e.g., `program.sim`)
+1. Create program file (e.g., `program.txt`)
 2. Run emulator:  
    ```bash
-   swipl .\main.prl 
+   swipl .\main.pl 
    ```
 3. Start the execution by typing:
    ```prolog
